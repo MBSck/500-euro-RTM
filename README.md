@@ -2,8 +2,8 @@
 Einige Dateien, welche für den Aufbau/das Testen der 500€ RTMs der MINT-Labs Regensburg benutzt werden können
 
 ## Inhaltsverzeichnis
-* [Inhalt][##Inhalt]
-* [Credits][##Credits]
+* [Inhalt](#Inhalt)
+* [Credits](#Credits)
 
 ## Inhalt
 * Ordner mit Code für die relevante Hardware
